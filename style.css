@@ -1,0 +1,29 @@
+h1 {
+    color:green;
+    align:center;
+    size: 50px;
+    border: 1px solid black;
+
+}
+h2 {
+    border: 1px solid black;
+}
+.alphabet {
+    background-color:blue;
+    font-size: 
+}
+
+#box1 {
+    background-color:red;
+}
+#box2 {
+    background-color:teal;
+    border: 1px solid black;
+}
+
+table, th, td {
+    Border: 1px solid black;
+
+
+}
+
